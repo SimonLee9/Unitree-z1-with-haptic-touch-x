@@ -2,8 +2,6 @@
 
 ---
 
----
-
 # 0. Operating sequence
 
 ## 1. Z1 - Ready
