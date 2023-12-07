@@ -2,12 +2,21 @@
 
 ---
 
-### Setting
-1. z1_examples
+## Setting
+
+### z1_examples
    
    ~/z1_ws/src/z1_ros/z1_examples
 
-2. getdata_package
+### z1_bringup
+
+   ~/z1_ws/src/z1_ros/z1_bringup
+
+### tcpip_package
+
+   ~/catkin_ws/src/tcpip_package  
+
+### getdata_package
 
    ~/catkin_ws/src/getdata_package
 
