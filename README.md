@@ -7,6 +7,10 @@
    
    ~/z1_ws/src/z1_ros/z1_examples
 
+2. getdata_package
+
+   ~/catkin_ws/src/getdata_package
+
 ---
 
 # 0. Operating sequence
